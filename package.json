@@ -1,0 +1,23 @@
+{
+  "name": "gridsome-plugin-ackee",
+  "version": "0.0.1",
+  "description": "Ackee analytics plugin for Gridsome",
+  "main": "gridsome.client.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenzoNL/gridsome-plugin-ackee.git"
+  },
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin"
+  ],
+  "author": "Dennis Bogers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DenzoNL/gridsome-plugin-ackee/issues"
+  },
+  "homepage": "https://github.com/DenzoNL/gridsome-plugin-ackee#readme",
+  "dependencies": {
+    "ackee-tracker": "^4.0.0"
+  }
+}
